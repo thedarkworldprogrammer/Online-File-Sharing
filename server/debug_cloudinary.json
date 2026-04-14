@@ -1,0 +1,35 @@
+{
+  "typeofResult": "object",
+  "keys": [
+    "_events",
+    "_writableState",
+    "_maxListeners",
+    "chunk_size",
+    "buffer",
+    "active",
+    "_eventsCount"
+  ],
+  "fullResult": {
+    "_events": {
+      "finish": [
+        null,
+        null
+      ]
+    },
+    "_writableState": {
+      "highWaterMark": 16384,
+      "length": 0,
+      "corked": 0,
+      "writelen": 0,
+      "bufferedIndex": 0,
+      "pendingcb": 0
+    },
+    "chunk_size": 6000000,
+    "buffer": {
+      "type": "Buffer",
+      "data": []
+    },
+    "active": true,
+    "_eventsCount": 5
+  }
+}

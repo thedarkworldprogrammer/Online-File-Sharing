@@ -1,0 +1,13 @@
+{
+  "_id": "69de793dfa7d2fea79f3e287",
+  "fileName": "test.jpg",
+  "fileType": "octet-stream",
+  "token": "16ec43e9-c4f8-45ff-b787-c54b57676d36",
+  "password": null,
+  "expiresAt": "2026-04-14T19:28:29.201Z",
+  "downloadCount": 0,
+  "maxDownloads": 3,
+  "createdAt": "2026-04-14T17:28:29.209Z",
+  "updatedAt": "2026-04-14T17:28:29.209Z",
+  "__v": 0
+}

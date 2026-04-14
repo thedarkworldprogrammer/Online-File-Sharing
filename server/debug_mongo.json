@@ -1,0 +1,15 @@
+{
+  "fileUrl": "MISSING",
+  "publicId": "MISSING",
+  "fileName": "test.jpg",
+  "fileType": "octet-stream",
+  "token": "e5910d26-8875-4439-b81d-8efb74ae12ea",
+  "password": null,
+  "expiresAt": "2026-04-14T19:32:39.631Z",
+  "downloadCount": 0,
+  "maxDownloads": 3,
+  "_id": "69de7a3751a583dfb48ec1a9",
+  "createdAt": "2026-04-14T17:32:39.650Z",
+  "updatedAt": "2026-04-14T17:32:39.650Z",
+  "__v": 0
+}
