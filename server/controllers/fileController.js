@@ -117,7 +117,7 @@ export const downloadFile = async (req, res) => {
 
   // Provide the browser with a direct native Node stream wrapper URL that avoids
   // Cloudinary's unsupported fl_attachment quirks for raw files and missing file extensions.
-  const proxyUrl = `http://localhost:5000/api/stream/${file.token}?pwd=${encodeURIComponent(req.body.password || "")}`;
+  const proxyUrl = `${process.env.BASE_URL}/api/stream/${file.token}?pwd=${encodeURIComponent(req.body.password || "")}`;
   
   res.json({ url: proxyUrl });
 };
